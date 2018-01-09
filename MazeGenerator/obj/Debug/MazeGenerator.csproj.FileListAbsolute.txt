@@ -1,0 +1,13 @@
+c:\users\jingming huang\documents\visual studio 2017\Projects\MazeGenerator\MazeGenerator\bin\Debug\MazeGenerator.exe.config
+c:\users\jingming huang\documents\visual studio 2017\Projects\MazeGenerator\MazeGenerator\bin\Debug\MazeGenerator.exe
+c:\users\jingming huang\documents\visual studio 2017\Projects\MazeGenerator\MazeGenerator\bin\Debug\MazeGenerator.pdb
+c:\users\jingming huang\documents\visual studio 2017\Projects\MazeGenerator\MazeGenerator\obj\Debug\MazeGenerator.csprojResolveAssemblyReference.cache
+c:\users\jingming huang\documents\visual studio 2017\Projects\MazeGenerator\MazeGenerator\obj\Debug\MazeGenerator.exe
+c:\users\jingming huang\documents\visual studio 2017\Projects\MazeGenerator\MazeGenerator\obj\Debug\MazeGenerator.pdb
+C:\Users\AlanJ\Desktop\MazeGenerator\MazeGenerator\bin\Debug\MazeGenerator.exe.config
+C:\Users\AlanJ\Desktop\MazeGenerator\MazeGenerator\bin\Debug\MazeGenerator.exe
+C:\Users\AlanJ\Desktop\MazeGenerator\MazeGenerator\bin\Debug\MazeGenerator.pdb
+C:\Users\AlanJ\Desktop\MazeGenerator\MazeGenerator\obj\Debug\MazeGenerator.csprojResolveAssemblyReference.cache
+C:\Users\AlanJ\Desktop\MazeGenerator\MazeGenerator\obj\Debug\MazeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\AlanJ\Desktop\MazeGenerator\MazeGenerator\obj\Debug\MazeGenerator.exe
+C:\Users\AlanJ\Desktop\MazeGenerator\MazeGenerator\obj\Debug\MazeGenerator.pdb
